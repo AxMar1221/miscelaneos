@@ -2,11 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-css',
-  template: `
-    <p>
-      css works!
-    </p>
-  `,
+  template: ``,
   styles: [
     `p {
       color: red;
